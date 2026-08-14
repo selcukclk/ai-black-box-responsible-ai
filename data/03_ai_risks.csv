@@ -1,17 +1,16 @@
-Table 1
-AI Risk;Considered Relevant 2025 (%);Actively Mitigated 2025 (%)
-Inaccuracy;74;71
-Cybersecurity;72;61
-Regulatory compliance;63;53
-Personal/individual privacy;54;44
-IP infringement;51;40
-Autonomous/unintended system actions;44;29
-Organizational reputation;37;22
-Explainability;36;29
-Equity and fairness;30;23
-Resource misuse;27;18
-Workforce labor displacement;16;11
-Environmental impact;14;5
-National security;12;6
-Physical safety;7;6
-Political stability;4;3
+AI_Risk,Considered_Relevant_2025_Percent,Actively_Mitigated_2025_Percent
+Inaccuracy,74,71
+Cybersecurity,72,61
+Regulatory compliance,63,53
+Personal/individual privacy,54,44
+IP infringement,51,40
+Autonomous/unintended system actions,44,29
+Organizational reputation,37,22
+Explainability,36,29
+Equity and fairness,30,23
+Resource misuse,27,18
+Workforce labor displacement,16,11
+Environmental impact,14,5
+National security,12,6
+Physical safety,7,6
+Political stability,4,3

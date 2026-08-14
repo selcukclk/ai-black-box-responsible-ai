@@ -1,22 +1,21 @@
-Table 1
-Business Function;Year;Value (%)
-Information security (cyber/fraud/privacy);2024;21
-Information security (cyber/fraud/privacy);2025;21
-Risk/compliance;2024;13
-Risk/compliance;2025;19
-AI-specific governance roles;2024;14
-AI-specific governance roles;2025;17
-Data and analytics;2024;17
-Data and analytics;2025;13
-Engineering;2024;10
-Engineering;2025;8
-Legal;2024;7
-Legal;2025;6
-Internal audit/ethics;2024;4
-Internal audit/ethics;2025;5
-No business function primarily responsible;2024;9
-No business function primarily responsible;2025;5
-Customer care;2024;2
-Customer care;2025;1
-Other;2024;1
-Other;2025;1
+Business_Function,Year,Value_Percent
+Information security (cyber/fraud/privacy),2024,21
+Information security (cyber/fraud/privacy),2025,21
+Risk/compliance,2024,13
+Risk/compliance,2025,19
+AI-specific governance roles,2024,14
+AI-specific governance roles,2025,17
+Data and analytics,2024,17
+Data and analytics,2025,13
+Engineering,2024,10
+Engineering,2025,8
+Legal,2024,7
+Legal,2025,6
+Internal audit/ethics,2024,4
+Internal audit/ethics,2025,5
+No business function primarily responsible,2024,9
+No business function primarily responsible,2025,5
+Customer care,2024,2
+Customer care,2025,1
+Other,2024,1
+Other,2025,1

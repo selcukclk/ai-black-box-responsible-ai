@@ -1,262 +1,261 @@
-Table 1
-Country name;Category
-Chile;Legislation
-Indonesia;Legislation
-Malaysia;Legislation
-Bolivia;Legislation
-Peru;Legislation
-Argentina;Legislation
-Cyprus;Legislation
-India;Legislation
-China;Legislation
-Israel;Legislation
-Palestine;Legislation
-Lebanon;Legislation
-Ethiopia;No legislation
-South Sudan;No legislation
-Somalia;Legislation
-Kenya;Legislation
-Pakistan;Draft legislation
-Malawi;Legislation
-Tanzania;Legislation
-Syria;Legislation
-France;Legislation
-Suriname;Legislation
-Guyana;Legislation
-South Korea;Legislation
-North Korea;No data
-Morocco;Legislation
-Costa Rica;Legislation
-Nicaragua;Legislation
-Republic of the Congo;Legislation
-Democratic Republic of the Congo;Legislation
-Bhutan;Legislation
-Ukraine;Legislation
-Belarus;Legislation
-Namibia;Draft legislation
-South Africa;Legislation
-Saint Martin;Legislation
-Sint Maarten;Legislation
-Oman;Legislation
-Uzbekistan;Legislation
-Kazakhstan;Legislation
-Tajikistan;Legislation
-Lithuania;Legislation
-Brazil;Legislation
-Uruguay;Legislation
-Mongolia;Legislation
-Russia;Legislation
-Czech Republic;Legislation
-Germany;Legislation
-Estonia;Legislation
-Latvia;Legislation
-Norway;Legislation
-Sweden;Legislation
-Finland;Legislation
-Vietnam;Legislation
-Cambodia;Legislation
-Luxembourg;Legislation
-United Arab Emirates;Legislation
-Belgium;Legislation
-Georgia;Legislation
-Republic of Macedonia;Legislation
-Albania;Legislation
-Azerbaijan;Legislation
-Kosovo;Legislation
-Turkey;Legislation
-Spain;Legislation
-Laos;Legislation
-Kyrgyzstan;Legislation
-Armenia;Legislation
-Denmark;Legislation
-Libya;No legislation
-Tunisia;Legislation
-Romania;Legislation
-Hungary;Legislation
-Slovakia;Legislation
-Poland;Legislation
-Ireland;Legislation
-United Kingdom;Legislation
-Greece;Legislation
-Zambia;Legislation
-Sierra Leone;No legislation
-Guinea;Legislation
-Liberia;No legislation
-Central African Republic;No legislation
-Sudan;No legislation
-Djibouti;Legislation
-Eritrea;No legislation
-Austria;Legislation
-Iraq;No legislation
-Italy;Legislation
-Switzerland;Legislation
-Iran;Legislation
-Liechtenstein;Legislation
-Ivory Coast;Legislation
-Serbia;Legislation
-Mali;Legislation
-Senegal;Legislation
-Nigeria;Legislation
-Benin;Legislation
-Angola;Legislation
-Croatia;Legislation
-Slovenia;Legislation
-Qatar;Legislation
-Saudi Arabia;Legislation
-Botswana;Legislation
-Zimbabwe;Legislation
-Bulgaria;Legislation
-Thailand;Legislation
-San Marino;Legislation
-Haiti;No legislation
-Dominican Republic;Legislation
-Chad;Legislation
-Kuwait;Legislation
-El Salvador;Legislation
-Guatemala;Legislation
-East Timor;No legislation
-Brunei;Legislation
-Monaco;Legislation
-Algeria;Legislation
-Mozambique;No legislation
-Eswatini;Legislation
-Burundi;Legislation
-Rwanda;Legislation
-Myanmar;No legislation
-Bangladesh;Draft legislation
-Andorra;Legislation
-Afghanistan;No legislation
-Montenegro;Legislation
-Bosnia and Herzegovina;Legislation
-Uganda;Legislation
-Guantanamo Bay Naval Base;Legislation
-Cuba;Legislation
-Honduras;Legislation
-Ecuador;Legislation
-Colombia;Legislation
-Paraguay;Legislation
-Portugal;Legislation
-Moldova;Legislation
-Turkmenistan;Legislation
-Jordan;Legislation
-Nepal;Legislation
-Lesotho;Legislation
-Cameroon;Legislation
-Gabon;Legislation
-Niger;Legislation
-Burkina Faso;Legislation
-Togo;Legislation
-Ghana;Legislation
-Guinea-Bissau;No legislation
-Gibraltar;Legislation
-United States of America;Legislation
-Canada;Legislation
-Mexico;Legislation
-Belize;Legislation
-Panama;Legislation
-Venezuela;No legislation
-Papua New Guinea;No legislation
-Egypt;Legislation
-Yemen;Legislation
-Mauritania;Legislation
-Equatorial Guinea;Legislation
-The Gambia;Legislation
-Hong Kong;Legislation
-Vatican City;Legislation
-Australia;Legislation
-Greenland;No data
-Fiji;Legislation
-New Caledonia;Legislation
-Madagascar;Legislation
-Philippines;Legislation
-Sri Lanka;Legislation
-Curaçao;Legislation
-Aruba;Legislation
-The Bahamas;Legislation
-Turks and Caicos Islands;Legislation
-Japan;Legislation
-Saint Pierre and Miquelon;Legislation
-Iceland;Legislation
-Pitcairn Islands;Legislation
-French Polynesia;Legislation
-French Southern and Antarctic Lands;No data
-Seychelles;Legislation
-Kiribati;Legislation
-Marshall Islands;Legislation
-Trinidad and Tobago;Legislation
-Grenada;Legislation
-Saint Vincent and the Grenadines;Legislation
-Barbados;Legislation
-Saint Lucia;Legislation
-Dominica;Legislation
-Montserrat;Legislation
-Antigua and Barbuda;Legislation
-Saint Kitts and Nevis;Legislation
-United States Virgin Islands;Legislation
-Saint-Barthélemy;Legislation
-Puerto Rico;Legislation
-Anguilla;Legislation
-British Virgin Islands;Legislation
-Jamaica;Legislation
-Cayman Islands;Legislation
-Bermuda;Legislation
-Heard Island and McDonald Islands;No data
-Saint Helena;Legislation
-Mauritius;Legislation
-Comoros;Legislation
-São Tomé and Príncipe;Legislation
-Cape Verde;Legislation
-Malta;Legislation
-Jersey;Legislation
-Guernsey;Legislation
-Isle of Man;Legislation
-Faroe Islands;Legislation
-British Indian Ocean Territory;No data
-Singapore;Legislation
-Norfolk Island;Legislation
-Cook Islands;Legislation
-Tonga;Legislation
-Wallis and Futuna;Legislation
-Samoa;Legislation
-Solomon Islands;Legislation
-Tuvalu;Legislation
-Maldives;Legislation
-Nauru;Legislation
-Federated States of Micronesia;Legislation
-South Georgia and the South Sandwich Islands;No data
-Falkland Islands;Legislation
-Vanuatu;Legislation
-Niue;Legislation
-American Samoa;Legislation
-Palau;Legislation
-Guam;Legislation
-Northern Mariana Islands;Legislation
-Bahrain;Legislation
-Clipperton Island;No data
-Macau;Legislation
-Bonaire;Legislation
-Sint Eustatius;Legislation
-Saba;Legislation
-Netherlands;Legislation
-Cocos Islands;Legislation
-Christmas Islands;Legislation
-Johnston Atoll;No data
-Jarvis Island;No data
-Baker Island;No data
-Howland Island;No data
-Wake Island;No data
-Midway Island;No data
-Navassa Island;No data
-Palmyra Atoll;No data
-Kingman Reef;No data
-Tokelau;Legislation
-New Zealand;Legislation
-Aksai Chin;No data
-Arunachal Pradesh;No data
-Western Sahara;No data
-Abyei;No data
-Demchok;Legislation
-United Nations Buffer Zone in Cyprus;Legislation
-French Guiana;No data
-Svalbard;No data
-Taiwan;No data
+Country_Name,Category
+Chile,Legislation
+Indonesia,Legislation
+Malaysia,Legislation
+Bolivia,Legislation
+Peru,Legislation
+Argentina,Legislation
+Cyprus,Legislation
+India,Legislation
+China,Legislation
+Israel,Legislation
+Palestine,Legislation
+Lebanon,Legislation
+Ethiopia,No legislation
+South Sudan,No legislation
+Somalia,Legislation
+Kenya,Legislation
+Pakistan,Draft legislation
+Malawi,Legislation
+Tanzania,Legislation
+Syria,Legislation
+France,Legislation
+Suriname,Legislation
+Guyana,Legislation
+South Korea,Legislation
+North Korea,No data
+Morocco,Legislation
+Costa Rica,Legislation
+Nicaragua,Legislation
+Republic of the Congo,Legislation
+Democratic Republic of the Congo,Legislation
+Bhutan,Legislation
+Ukraine,Legislation
+Belarus,Legislation
+Namibia,Draft legislation
+South Africa,Legislation
+Saint Martin,Legislation
+Sint Maarten,Legislation
+Oman,Legislation
+Uzbekistan,Legislation
+Kazakhstan,Legislation
+Tajikistan,Legislation
+Lithuania,Legislation
+Brazil,Legislation
+Uruguay,Legislation
+Mongolia,Legislation
+Russia,Legislation
+Czech Republic,Legislation
+Germany,Legislation
+Estonia,Legislation
+Latvia,Legislation
+Norway,Legislation
+Sweden,Legislation
+Finland,Legislation
+Vietnam,Legislation
+Cambodia,Legislation
+Luxembourg,Legislation
+United Arab Emirates,Legislation
+Belgium,Legislation
+Georgia,Legislation
+Republic of Macedonia,Legislation
+Albania,Legislation
+Azerbaijan,Legislation
+Kosovo,Legislation
+Turkey,Legislation
+Spain,Legislation
+Laos,Legislation
+Kyrgyzstan,Legislation
+Armenia,Legislation
+Denmark,Legislation
+Libya,No legislation
+Tunisia,Legislation
+Romania,Legislation
+Hungary,Legislation
+Slovakia,Legislation
+Poland,Legislation
+Ireland,Legislation
+United Kingdom,Legislation
+Greece,Legislation
+Zambia,Legislation
+Sierra Leone,No legislation
+Guinea,Legislation
+Liberia,No legislation
+Central African Republic,No legislation
+Sudan,No legislation
+Djibouti,Legislation
+Eritrea,No legislation
+Austria,Legislation
+Iraq,No legislation
+Italy,Legislation
+Switzerland,Legislation
+Iran,Legislation
+Liechtenstein,Legislation
+Ivory Coast,Legislation
+Serbia,Legislation
+Mali,Legislation
+Senegal,Legislation
+Nigeria,Legislation
+Benin,Legislation
+Angola,Legislation
+Croatia,Legislation
+Slovenia,Legislation
+Qatar,Legislation
+Saudi Arabia,Legislation
+Botswana,Legislation
+Zimbabwe,Legislation
+Bulgaria,Legislation
+Thailand,Legislation
+San Marino,Legislation
+Haiti,No legislation
+Dominican Republic,Legislation
+Chad,Legislation
+Kuwait,Legislation
+El Salvador,Legislation
+Guatemala,Legislation
+East Timor,No legislation
+Brunei,Legislation
+Monaco,Legislation
+Algeria,Legislation
+Mozambique,No legislation
+Eswatini,Legislation
+Burundi,Legislation
+Rwanda,Legislation
+Myanmar,No legislation
+Bangladesh,Draft legislation
+Andorra,Legislation
+Afghanistan,No legislation
+Montenegro,Legislation
+Bosnia and Herzegovina,Legislation
+Uganda,Legislation
+Guantanamo Bay Naval Base,Legislation
+Cuba,Legislation
+Honduras,Legislation
+Ecuador,Legislation
+Colombia,Legislation
+Paraguay,Legislation
+Portugal,Legislation
+Moldova,Legislation
+Turkmenistan,Legislation
+Jordan,Legislation
+Nepal,Legislation
+Lesotho,Legislation
+Cameroon,Legislation
+Gabon,Legislation
+Niger,Legislation
+Burkina Faso,Legislation
+Togo,Legislation
+Ghana,Legislation
+Guinea-Bissau,No legislation
+Gibraltar,Legislation
+United States of America,Legislation
+Canada,Legislation
+Mexico,Legislation
+Belize,Legislation
+Panama,Legislation
+Venezuela,No legislation
+Papua New Guinea,No legislation
+Egypt,Legislation
+Yemen,Legislation
+Mauritania,Legislation
+Equatorial Guinea,Legislation
+The Gambia,Legislation
+Hong Kong,Legislation
+Vatican City,Legislation
+Australia,Legislation
+Greenland,No data
+Fiji,Legislation
+New Caledonia,Legislation
+Madagascar,Legislation
+Philippines,Legislation
+Sri Lanka,Legislation
+Curaçao,Legislation
+Aruba,Legislation
+The Bahamas,Legislation
+Turks and Caicos Islands,Legislation
+Japan,Legislation
+Saint Pierre and Miquelon,Legislation
+Iceland,Legislation
+Pitcairn Islands,Legislation
+French Polynesia,Legislation
+French Southern and Antarctic Lands,No data
+Seychelles,Legislation
+Kiribati,Legislation
+Marshall Islands,Legislation
+Trinidad and Tobago,Legislation
+Grenada,Legislation
+Saint Vincent and the Grenadines,Legislation
+Barbados,Legislation
+Saint Lucia,Legislation
+Dominica,Legislation
+Montserrat,Legislation
+Antigua and Barbuda,Legislation
+Saint Kitts and Nevis,Legislation
+United States Virgin Islands,Legislation
+Saint-Barthélemy,Legislation
+Puerto Rico,Legislation
+Anguilla,Legislation
+British Virgin Islands,Legislation
+Jamaica,Legislation
+Cayman Islands,Legislation
+Bermuda,Legislation
+Heard Island and McDonald Islands,No data
+Saint Helena,Legislation
+Mauritius,Legislation
+Comoros,Legislation
+São Tomé and Príncipe,Legislation
+Cape Verde,Legislation
+Malta,Legislation
+Jersey,Legislation
+Guernsey,Legislation
+Isle of Man,Legislation
+Faroe Islands,Legislation
+British Indian Ocean Territory,No data
+Singapore,Legislation
+Norfolk Island,Legislation
+Cook Islands,Legislation
+Tonga,Legislation
+Wallis and Futuna,Legislation
+Samoa,Legislation
+Solomon Islands,Legislation
+Tuvalu,Legislation
+Maldives,Legislation
+Nauru,Legislation
+Federated States of Micronesia,Legislation
+South Georgia and the South Sandwich Islands,No data
+Falkland Islands,Legislation
+Vanuatu,Legislation
+Niue,Legislation
+American Samoa,Legislation
+Palau,Legislation
+Guam,Legislation
+Northern Mariana Islands,Legislation
+Bahrain,Legislation
+Clipperton Island,No data
+Macau,Legislation
+Bonaire,Legislation
+Sint Eustatius,Legislation
+Saba,Legislation
+Netherlands,Legislation
+Cocos Islands,Legislation
+Christmas Islands,Legislation
+Johnston Atoll,No data
+Jarvis Island,No data
+Baker Island,No data
+Howland Island,No data
+Wake Island,No data
+Midway Island,No data
+Navassa Island,No data
+Palmyra Atoll,No data
+Kingman Reef,No data
+Tokelau,Legislation
+New Zealand,Legislation
+Aksai Chin,No data
+Arunachal Pradesh,No data
+Western Sahara,No data
+Abyei,No data
+Demchok,Legislation
+United Nations Buffer Zone in Cyprus,Legislation
+French Guiana,No data
+Svalbard,No data
+Taiwan,No data
