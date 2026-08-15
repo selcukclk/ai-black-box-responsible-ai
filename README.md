@@ -30,6 +30,7 @@ The indicators in this repository are derived and structured from the **Stanford
 
 * **Primary Reference:** [Stanford AI Index Report 2026](https://aiindex.stanford.edu/report/)
 * **Curation & Visual Storytelling:** Selçuk Çelik
+* **Visualization Tooling:** [Flourish Studio](https://flourish.studio)
 
 ---
 
